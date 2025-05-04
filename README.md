@@ -1,6 +1,6 @@
 # Hello, I'm Priya Varsha 👋
 
-![Profile Image](https://github.com/P-PRIYA-VARSHA.png)
+<img src="https://github.com/P-PRIYA-VARSHA.png" alt="GitHub Profile" width="150" height="150" style="border-radius: 50%;" />
 
 Welcome to my GitHub profile!  
 I am a passionate **Computer Science and Engineering** student at **Vel Tech University**, Chennai, with a focus on **AI**, **Machine Learning**, and **Web Development**.  
