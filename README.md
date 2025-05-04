@@ -32,11 +32,6 @@ Here are some of my awesome projects! Check them out:
 - [**Smart Street**](https://github.com/P-PRIYA-VARSHA/SmartStreetWebsite)  
    A smart street light monitoring system that detects faults and optimizes energy usage with IoT sensors and a real-time dashboard.
 
----
-
-## 🌟 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-PRIYA-VARSHA&show_icons=true&theme=radical)
 
 ---
 
@@ -51,7 +46,7 @@ Here are some of my awesome projects! Check them out:
 
 Let's connect! I’m always open to new ideas, collaborations, and learning opportunities.
 
-- [LinkedIn](https://www.linkedin.com/in/PriyaVarsha)
+- [LinkedIn](www.linkedin.com/in/p-priya-varsha)
 - [Twitter](https://twitter.com/Priya_Varsha)
 
 
