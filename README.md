@@ -45,9 +45,9 @@ Here are some of my awesome projects! Check them out:
 
 Let's connect! I’m always open to new ideas, collaborations, and learning opportunities.
 
-- [LinkedIn](www.linkedin.com/in/p-priya-varsha)
+- [LinkedIn](https://www.linkedin.com/in/p-priya-varsha)  
+- [GitHub](https://github.com/P-PRIYA-VARSHA)  
 - [Twitter](https://x.com/PriyaVarsh21185)
-
 
 ---
 
