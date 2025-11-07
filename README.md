@@ -22,14 +22,14 @@ I love building **innovative solutions** and contributing to open-source project
 
 Here are some of my awesome projects! Check them out:
 
-- [**MindMate: AI-based Mental Health Companion**](https://github.com/P-PRIYA-VARSHA/VTU-Mental-Health-Application)  
-   An AI-powered mental health assistant to provide emotional support, sentiment analysis, and personalized recommendations.
+- [**Naari Shakti AI Empowering Womens Through Technology**](https://github.com/P-PRIYA-VARSHA/Naari-Shakti-AI)  
+   A multilingual AI-powered women’s safety and public announcement system designed to provide SOS activation, adaptive location tracking, legal aid access, and community support — aligned with the UN SDG goal Peace, Justice, and Strong Institutions.
+   
+- [**Automated Early Detection and Intervention System for Mental Health**](https://github.com/P-PRIYA-VARSHA/VTU-Mental-Health-Application)  
+   An AI-driven mental health assistant offering emotional support, sentiment analysis, and personalized recommendations to promote emotional well-being among users.
 
-- [**Property Hub: Real Estate Website**](https://github.com/PRIYA-VARSHA/mern-estate)  
-   A full-stack MERN project for buying and selling properties, with features like advanced search, user authentication, and real-time notifications.
-
-- [**Smart Street**](https://github.com/P-PRIYA-VARSHA/SmartStreetWebsite)  
-   A smart street light monitoring system that detects faults and optimizes energy usage with IoT sensors and a real-time dashboard.
+- [**AI-Based Diabetes Prediction Model**](https://github.com/PRIYA-VARSHA/first-project/blob/main/GEN_AI.ipynb)  
+   A machine learning model that predicts the likelihood of diabetes based on health indicators, helping enable early diagnosis and preventive healthcare awareness.
 
 
 ---
