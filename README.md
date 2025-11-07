@@ -46,18 +46,20 @@ Here are some of my awesome projects! Check them out:
 Let's connect! I’m always open to new ideas, collaborations, and learning opportunities.
 
 - [LinkedIn](www.linkedin.com/in/p-priya-varsha)
-- [Twitter](https://twitter.com/Priya_Varsha)
+- [Twitter](https://x.com/PriyaVarsh21185)
 
 
 ---
 
-## 💬 Support This Profile
+## 🤝 Contributing  
 
-I welcome contributions to my projects. If you find any of my projects helpful or interesting, feel free to:
+I welcome contributions to my projects! If you find any of my work helpful or interesting, feel free to:  
 
-- **Fork** the repo and contribute to improvements.
-- **Open Issues** to suggest features or report bugs.
-- **Star** my repositories if you like them!
+- **Fork** this repository and contribute to improvements.  
+- **Open Issues** to suggest new features or report bugs.  
+- **Submit Pull Requests** for enhancements or fixes.  
+- **Star ⭐** the repo if you find it useful.  
+- **Follow me** on [GitHub](https://github.com/P-PRIYA-VARSHA) for more AI and web development projects!  
 
 ---
 
@@ -72,10 +74,9 @@ I welcome contributions to my projects. If you find any of my projects helpful o
 
 ## 🖋️ Fun Facts
 
-- I’m currently learning **Flutter** and **Dart**.
 - I love playing badminton 🏸.
 - I’m a volunteer at **NSS** and **CPC clubs**.
-- I enjoy **public speaking** and **traveling** to new places 🌍.
+- I enjoy **public speaking** and **travelling** to new places 🌍.
 
 ---
 
